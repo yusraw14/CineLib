@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134069715994",
+    "project_id": "cinelib-54ce7",
+    "storage_bucket": "cinelib-54ce7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134069715994:android:64921b05c2534bc1f53da3",
+        "android_client_info": {
+          "package_name": "com.example.cinelib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuKkuHaoQzCj-HmZRwImyngWl9GZdst4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
